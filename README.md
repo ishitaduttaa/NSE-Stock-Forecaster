@@ -54,13 +54,9 @@ The chatbot retrieves relevant financial context before generating responses, re
 - NewsData.io: financial news headlines
 - GNews.io: additional market news aggregation
 
-## Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run final_codebase.py
-```
-
-Or open the notebook in Google Colab and run all cells.
+## Run Locally the frontend with api keys
+Configure the frontend with your own API keys before running the application.
+Open the notebook in Google Colab and run the cells.
 
 ## Disclaimer
 
