@@ -1,4 +1,4 @@
- # add app.py file
+# add app_stock.py file
 # FRONTEND
 # used for streamlit-
 
